@@ -1,2 +1,4 @@
 # ev-analysis
 Analysis of electric vehicle market and adoption trends in Washington state using registration data.
+
+This repository performs an extensive analysis of electric vehicle adoption in Washington state to identify market trends and growth opportunities. It sources a comprehensive dataset of over 130K EV registrations and analyzes make/model preferences, geographic penetration, price sensitivity, and other key attributes. Advanced visualizations are implemented to showcase insights. Timeseries modeling predicts future EV sales growth. A custom recommender system suggests EVs to consumers based on preferences. This project showcases skills in sourcing and cleaning data, exploratory data analysis, visualization, modeling, and developing end-to-end machine learning solutions. All analysis code is documented for reproducibility. Insights from this project can inform strategies to promote further EV adoption in the state.
